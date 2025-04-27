@@ -1,4 +1,4 @@
-# Enhancing Alarm Intelligence through Machine Learning at OSUM Oil Sands
+# Enhancing Alarm Intelligence through Machine Learning at OSUM Oil Sands (2025- Still Ongoing)
 
 ## Overview
 This project focuses on enhancing alarm intelligence by analyzing alarm data, identifying patterns in chattering behavior (CHB), and predicting Active Time Duration (ATD) using Machine Learning models in R.
