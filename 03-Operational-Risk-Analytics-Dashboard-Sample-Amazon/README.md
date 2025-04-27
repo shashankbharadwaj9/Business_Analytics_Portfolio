@@ -1,4 +1,4 @@
-# Operational Risk Analytics – Refund Fraud Detection (Amazon Simulation Sample)
+# Operational Risk Analytics – Refund Fraud Detection (Amazon Simulation Sample) - 2022
 
 ## 📄 Project Overview
 In this project, I analyzed operational risks related to fraudulent refund transactions for an e-commerce platform (Amazon simulation).  
