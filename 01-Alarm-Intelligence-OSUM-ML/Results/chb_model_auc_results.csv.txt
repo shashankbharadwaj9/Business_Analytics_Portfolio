@@ -1,0 +1,4 @@
+Model,AUC
+Logistic Regression,0.829
+Decision Tree,0.875
+XGBoost,0.910

@@ -1,0 +1,3 @@
+Model,RMSE
+Linear Regression,407.5
+XGBoost Regressor,404.0
