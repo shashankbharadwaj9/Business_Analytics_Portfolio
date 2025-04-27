@@ -1,0 +1,11 @@
+Rule,Support,Confidence,Lift
+{Product A} => {Product B},0.006,0.25,1.7
+{Product C} => {Product D},0.005,0.22,1.8
+{Product E} => {Product F},0.004,0.21,1.6
+{Product G} => {Product H},0.004,0.20,1.5
+{Product I} => {Product J},0.003,0.19,1.4
+{Product K} => {Product L},0.003,0.19,1.6
+{Product M} => {Product N},0.002,0.18,1.5
+{Product O} => {Product P},0.002,0.17,1.5
+{Product Q} => {Product R},0.002,0.17,1.4
+{Product S} => {Product T},0.002,0.16,1.3
