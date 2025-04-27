@@ -1,4 +1,4 @@
-# Customer Retention and Segmentation – Ignite Analytics
+# Customer Retention and Segmentation – Using R (2024)
 
 ## Overview
 This project focuses on customer segmentation and product recommendation based on purchasing behavior and demographics, designed for ACME Innovations.
