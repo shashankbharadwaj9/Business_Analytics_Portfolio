@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Shashank Bharadwaj Asaram!
+# 👋 Hello, I'm Shashank Bharadwaj!
 
 ### 🎯 Business Analyst | Data Analyst | Problem Solver
 
