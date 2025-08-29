@@ -16,16 +16,6 @@ Currently, I'm focusing on combining **SQL**, **Python**, and **Power BI** to dr
 
 ---
   
-## 📚 Projects
-- [🔧 Alarm Intelligence using Machine Learning (OSUM Oil Sands)](https://github.com/shashankbharadwaj9/Business_Analytics_Portfolio/tree/main/01-Alarm-Intelligence-OSUM-ML)
-- [🔧 Customer Retention Analytics (Ignite Analytics)](https://github.com/shashankbharadwaj9/Business_Analytics_Portfolio/tree/main/02-Customer-Retention-Ignite-Analytics)
-- [🔧 Operational Risk Analytics – Refund Fraud Detection (Amazon Simulation Sample)](https://github.com/shashankbharadwaj9/Business_Analytics_Portfolio/tree/main/03-Sample-Operational-Risk-Analytics-Amazon)
-- [🔧 Passenger-Bus-Volume-Forecasting](https://github.com/shashankbharadwaj9/Business_Analytics_Portfolio/tree/main/04-Passenger-Bus-Volume-Forecasting)
-
-(Click above to view detailed case studies)
-
----
-  
 ## 🎯 What I'm Passionate About
 - Driving decision-making with data
 - Building end-to-end analytics solutions
