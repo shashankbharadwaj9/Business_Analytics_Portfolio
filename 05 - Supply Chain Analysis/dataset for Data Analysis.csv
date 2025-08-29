@@ -1,0 +1,251 @@
+Product_ID,Category,Supplier,Warehouse_Location,Order_Date,Delivery_Date,Inventory_Level,Stockouts,Unit_Cost,Lead_Time
+P0001,Toys,Supplier B,Chicago,2025-02-23,2025-03-01,15,0,446.2,6
+P0002,Furniture,Supplier C,San Francisco,2025-02-25,2025-03-15,138,0,208.02,18
+P0003,Furniture,Supplier B,Chicago,2025-01-22,2025-02-08,270,0,423.75,14
+P0004,Toys,Supplier D,Chicago,2025-01-29,2025-02-06,151,0,123.17,8
+P0005,Food,Supplier A,Dallas,2025-03-10,2025-03-24,237,1,462.93,14
+P0006,Clothing,Supplier D,New York,2025-02-20,2025-03-13,223,0,407.72,17
+P0007,Furniture,Supplier D,New York,2025-02-17,2025-03-06,248,0,128.05,17
+P0008,Clothing,Supplier A,New York,2025-03-16,2025-03-21,415,0,384.22,5
+P0009,Clothing,Supplier C,Dallas,2025-03-26,2025-04-01,149,0,317.59,6
+P0010,Food,Supplier A,San Francisco,2025-03-04,2025-03-22,270,0,16.85,18
+P0011,Furniture,Supplier B,Chicago,2025-02-19,2025-02-26,88,0,386.77,7
+P0012,Toys,Supplier A,Chicago,2025-01-31,2025-02-14,134,0,5.57,14
+P0013,Furniture,Supplier D,Dallas,2025-02-01,2025-02-07,86,1,138.08,6
+P0014,Electronics,Supplier D,San Francisco,2025-02-09,2025-02-17,8,0,169.87,8
+P0015,Food,Supplier A,New York,2025-01-30,2025-02-12,174,0,213.44,13
+P0016,Furniture,Supplier B,San Francisco,2025-03-23,2025-04-05,346,0,476.24,13
+P0017,Clothing,Supplier B,Chicago,2025-02-11,2025-02-15,309,0,393.73,4
+P0018,Electronics,Supplier B,Chicago,2025-03-22,2025-03-26,382,0,418.76,4
+P0019,Food,Supplier C,San Francisco,2025-04-02,2025-04-13,380,0,127.26,11
+P0020,Food,Supplier B,Chicago,2025-03-24,2025-03-31,194,0,215.02,2
+P0021,Furniture,Supplier A,Dallas,2025-01-30,2025-02-13,297,1,247.08,14
+P0022,Toys,Supplier D,New York,2025-03-02,2025-03-16,359,0,23.81,11
+P0023,Furniture,Supplier B,New York,2025-04-02,2025-04-16,123,0,142.68,14
+P0024,Toys,Supplier A,San Francisco,2025-03-13,2025-03-20,151,0,463.9,7
+P0025,Toys,Supplier D,Chicago,2025-03-24,2025-04-02,242,0,460.7,5
+P0026,Clothing,Supplier A,New York,2025-03-26,2025-04-08,98,0,270.85,13
+P0027,Electronics,Supplier D,Chicago,2025-03-05,2025-03-18,359,0,145.25,13
+P0028,Electronics,Supplier B,San Francisco,2025-04-06,2025-04-17,27,1,447.11,7
+P0029,Clothing,Supplier D,Chicago,2025-03-07,2025-03-16,20,0,235.16,6
+P0030,Food,Supplier B,Chicago,2025-03-31,2025-04-14,192,0,315.19,14
+P0031,Toys,Supplier C,Chicago,2025-02-19,2025-03-04,85,0,433.7,13
+P0032,Clothing,Supplier D,San Francisco,2025-02-21,2025-03-02,219,0,436.39,9
+P0033,Furniture,Supplier D,Dallas,2025-03-29,2025-04-05,410,0,78.7,7
+P0034,Clothing,Supplier B,Dallas,2025-02-12,2025-03-01,386,0,88.06,17
+P0035,Furniture,Supplier D,San Francisco,2025-03-27,2025-04-03,106,0,99.96,7
+P0036,Toys,Supplier D,San Francisco,2025-03-27,2025-04-04,471,0,407.59,6
+P0037,Furniture,Supplier A,San Francisco,2025-03-07,2025-03-13,52,0,279.57,6
+P0038,Toys,Supplier B,Chicago,2025-03-28,2025-04-01,324,0,68.86,3
+P0039,Toys,Supplier D,San Francisco,2025-01-23,2025-02-04,118,0,43.24,9
+P0040,Electronics,Supplier A,Chicago,2025-02-12,2025-02-23,116,0,145.6,11
+P0041,Toys,Supplier A,Chicago,2025-03-27,2025-04-02,40,0,262.86,4
+P0042,Furniture,Supplier B,San Francisco,2025-03-05,2025-03-15,241,1,265.6,10
+P0043,Toys,Supplier D,San Francisco,2025-02-18,2025-02-24,302,0,228.15,6
+P0044,Furniture,Supplier D,New York,2025-02-23,2025-02-26,29,1,403.08,3
+P0045,Toys,Supplier A,Chicago,2025-02-21,2025-03-10,152,1,102.9,12
+P0046,Toys,Supplier C,Dallas,2025-03-07,2025-03-24,364,0,316.96,17
+P0047,Food,Supplier D,San Francisco,2025-02-08,2025-02-16,445,0,53.84,8
+P0048,Furniture,Supplier C,Dallas,2025-03-09,2025-03-25,234,0,441.36,16
+P0049,Furniture,Supplier A,New York,2025-01-24,2025-02-07,432,1,398.25,10
+P0050,Toys,Supplier B,San Francisco,2025-03-17,2025-03-22,442,0,328.92,5
+P0051,Food,Supplier C,Dallas,2025-02-10,2025-02-19,404,1,104.29,4
+P0052,Electronics,Supplier D,San Francisco,2025-03-04,2025-03-23,310,0,197.05,19
+P0053,Toys,Supplier D,New York,2025-02-12,2025-02-26,15,0,87.95,14
+P0054,Food,Supplier D,Dallas,2025-02-01,2025-02-21,475,0,118.95,16
+P0055,Food,Supplier B,Chicago,2025-03-09,2025-03-10,303,0,229.16,1
+P0056,Electronics,Supplier C,San Francisco,2025-03-16,2025-04-06,375,0,373.21,18
+P0057,Clothing,Supplier A,Dallas,2025-02-27,2025-03-05,217,0,219.18,6
+P0058,Toys,Supplier B,Dallas,2025-03-05,2025-03-14,394,0,188.39,9
+P0059,Toys,Supplier C,Dallas,2025-02-10,2025-02-17,325,1,231.58,7
+P0060,Toys,Supplier B,New York,2025-02-22,2025-03-13,413,0,261.86,14
+P0061,Furniture,Supplier C,Dallas,2025-03-26,2025-03-31,186,0,305.91,5
+P0062,Clothing,Supplier B,New York,2025-03-05,2025-03-11,172,1,21.86,6
+P0063,Food,Supplier A,Dallas,2025-02-07,2025-02-10,202,0,223.76,3
+P0064,Clothing,Supplier A,Chicago,2025-03-22,2025-04-06,126,0,84.34,15
+P0065,Toys,Supplier A,Chicago,2025-01-27,2025-02-14,356,0,44.07,18
+P0066,Furniture,Supplier B,Chicago,2025-03-28,2025-04-01,349,0,453.47,1
+P0067,Food,Supplier A,New York,2025-04-10,2025-04-29,109,1,255.03,16
+P0068,Electronics,Supplier B,San Francisco,2025-03-11,2025-03-27,236,0,286.55,16
+P0069,Toys,Supplier C,Dallas,2025-03-19,2025-03-27,350,1,234.45,8
+P0070,Furniture,Supplier D,New York,2025-03-18,2025-04-04,422,0,145.83,17
+P0071,Food,Supplier A,Chicago,2025-01-23,2025-02-04,338,0,173.12,12
+P0072,Clothing,Supplier C,Dallas,2025-03-01,2025-03-13,68,0,479.33,12
+P0073,Electronics,Supplier C,Dallas,2025-03-15,2025-03-25,55,0,221.91,5
+P0074,Food,Supplier A,Chicago,2025-03-17,2025-03-26,134,0,117.73,9
+P0075,Furniture,Supplier A,Chicago,2025-04-10,2025-04-23,442,0,455.9,13
+P0076,Toys,Supplier B,Chicago,2025-03-05,2025-03-23,153,0,438.61,14
+P0077,Furniture,Supplier D,San Francisco,2025-02-19,2025-03-06,125,0,414.23,15
+P0078,Food,Supplier C,San Francisco,2025-01-28,2025-02-10,52,0,95.08,13
+P0079,Clothing,Supplier A,New York,2025-04-07,2025-04-17,298,0,58.88,10
+P0080,Toys,Supplier A,San Francisco,2025-04-02,2025-04-13,97,0,490.67,8
+P0081,Toys,Supplier D,New York,2025-01-23,2025-02-06,165,1,437.83,14
+P0082,Clothing,Supplier A,Dallas,2025-02-18,2025-02-26,255,0,227.61,8
+P0083,Toys,Supplier A,New York,2025-01-26,2025-02-01,322,0,164.95,6
+P0084,Food,Supplier A,New York,2025-04-01,2025-04-04,172,0,176.34,3
+P0085,Food,Supplier C,New York,2025-04-03,2025-04-25,453,0,437.08,19
+P0086,Toys,Supplier D,Chicago,2025-02-17,2025-03-03,411,0,102.08,14
+P0087,Electronics,Supplier B,San Francisco,2025-02-23,2025-03-13,313,0,393.59,18
+P0088,Toys,Supplier A,Chicago,2025-02-07,2025-02-21,408,0,148.8,14
+P0089,Food,Supplier A,San Francisco,2025-02-14,2025-03-07,389,0,139.56,17
+P0090,Electronics,Supplier C,Dallas,2025-02-07,2025-02-22,270,0,385.58,15
+P0091,Electronics,Supplier C,San Francisco,2025-03-02,2025-03-14,398,1,467.28,12
+P0092,Electronics,Supplier D,Dallas,2025-02-24,2025-03-12,206,0,484.06,13
+P0093,Clothing,Supplier B,San Francisco,2025-03-11,2025-03-22,237,0,124.85,11
+P0094,Electronics,Supplier C,Chicago,2025-03-22,2025-03-27,388,0,412.94,5
+P0095,Food,Supplier B,San Francisco,2025-03-22,2025-04-01,198,0,196.86,10
+P0096,Furniture,Supplier C,San Francisco,2025-02-03,2025-02-05,95,0,146.98,2
+P0097,Furniture,Supplier C,Chicago,2025-03-28,2025-04-16,59,0,393.18,19
+P0098,Food,Supplier D,Dallas,2025-03-03,2025-03-11,189,0,378.52,7
+P0099,Clothing,Supplier B,San Francisco,2025-01-26,2025-02-04,367,1,462.88,9
+P0100,Electronics,Supplier A,San Francisco,2025-02-02,2025-02-19,270,1,450.65,14
+P0101,Clothing,Supplier B,Chicago,2025-01-30,2025-02-13,433,0,247.45,14
+P0102,Clothing,Supplier D,San Francisco,2025-02-03,2025-02-19,143,0,328.06,16
+P0103,Toys,Supplier C,Chicago,2025-02-07,2025-02-19,434,0,280.08,12
+P0104,Furniture,Supplier A,New York,2025-03-16,2025-03-30,17,0,189.22,13
+P0105,Electronics,Supplier C,San Francisco,2025-03-08,2025-03-09,494,0,160.89,1
+P0106,Electronics,Supplier B,Dallas,2025-03-17,2025-03-23,321,0,68.8,1
+P0107,Food,Supplier A,San Francisco,2025-03-12,2025-03-30,100,0,96.87,18
+P0108,Toys,Supplier B,New York,2025-04-04,2025-04-07,363,0,240.74,3
+P0109,Food,Supplier C,Dallas,2025-03-17,2025-04-06,4,0,273.34,19
+P0110,Electronics,Supplier B,Chicago,2025-02-22,2025-03-12,295,1,95.37,13
+P0111,Food,Supplier D,Dallas,2025-03-23,2025-03-29,269,0,212.4,6
+P0112,Furniture,Supplier B,Dallas,2025-01-25,2025-02-07,470,1,252.24,13
+P0113,Food,Supplier A,New York,2025-03-17,2025-04-06,283,0,329.95,19
+P0114,Clothing,Supplier C,San Francisco,2025-03-21,2025-04-04,452,1,105.44,14
+P0115,Food,Supplier C,Dallas,2025-02-19,2025-02-21,195,1,163.01,2
+P0116,Clothing,Supplier B,Chicago,2025-02-28,2025-03-09,197,0,223.23,9
+P0117,Clothing,Supplier D,Dallas,2025-02-26,2025-03-17,473,1,190.65,19
+P0118,Food,Supplier C,Chicago,2025-02-02,2025-02-15,362,0,163.32,10
+P0119,Food,Supplier C,San Francisco,2025-03-04,2025-03-06,307,0,282.62,2
+P0120,Electronics,Supplier B,Chicago,2025-02-02,2025-02-03,404,0,108.89,1
+P0121,Clothing,Supplier C,New York,2025-04-05,2025-04-18,499,1,288.25,13
+P0122,Electronics,Supplier C,San Francisco,2025-04-06,2025-04-25,444,0,359.22,19
+P0123,Toys,Supplier C,Chicago,2025-04-01,2025-04-04,305,0,56.09,3
+P0124,Furniture,Supplier D,Chicago,2025-03-16,2025-03-30,20,0,313.62,10
+P0125,Clothing,Supplier A,San Francisco,2025-02-02,2025-02-10,101,0,315.31,8
+P0126,Food,Supplier C,San Francisco,2025-03-02,2025-03-06,201,1,325.37,4
+P0127,Electronics,Supplier C,New York,2025-03-11,2025-03-18,392,0,114.41,7
+P0128,Food,Supplier A,Chicago,2025-03-10,2025-03-15,149,1,314.82,5
+P0129,Toys,Supplier B,Chicago,2025-02-06,2025-03-02,267,0,388.56,19
+P0130,Electronics,Supplier A,Chicago,2025-03-26,2025-04-04,85,1,56.02,9
+P0131,Toys,Supplier C,Dallas,2025-02-10,2025-02-19,214,0,282.16,9
+P0132,Food,Supplier A,Dallas,2025-02-20,2025-03-12,79,0,66.44,18
+P0133,Toys,Supplier B,Dallas,2025-02-18,2025-02-26,401,0,94.25,8
+P0134,Furniture,Supplier D,Chicago,2025-02-05,2025-02-13,245,0,490.97,8
+P0135,Electronics,Supplier D,Chicago,2025-02-07,2025-02-13,220,0,397.82,6
+P0136,Food,Supplier C,Dallas,2025-01-26,2025-02-14,479,1,260.46,18
+P0137,Furniture,Supplier C,Dallas,2025-01-21,2025-01-28,202,0,431.39,5
+P0138,Food,Supplier C,San Francisco,2025-04-08,2025-04-17,57,0,285.07,9
+P0139,Food,Supplier B,Dallas,2025-02-09,2025-02-24,214,0,114.01,15
+P0140,Electronics,Supplier D,San Francisco,2025-01-31,2025-02-18,228,0,8.64,18
+P0141,Food,Supplier A,Dallas,2025-02-04,2025-02-08,330,0,227.93,3
+P0142,Food,Supplier C,San Francisco,2025-03-28,2025-04-05,489,0,111.2,8
+P0143,Electronics,Supplier A,San Francisco,2025-03-25,2025-03-27,340,1,15.55,2
+P0144,Electronics,Supplier B,New York,2025-03-27,2025-04-01,302,0,126.96,5
+P0145,Furniture,Supplier B,Dallas,2025-02-07,2025-02-19,182,0,133.48,10
+P0146,Toys,Supplier A,Dallas,2025-02-21,2025-03-05,44,1,13.63,12
+P0147,Toys,Supplier B,Chicago,2025-01-30,2025-02-07,389,1,314.87,8
+P0148,Toys,Supplier D,San Francisco,2025-03-15,2025-03-21,188,0,221.9,6
+P0149,Clothing,Supplier D,Dallas,2025-03-25,2025-04-05,416,0,395.35,6
+P0150,Clothing,Supplier C,New York,2025-01-26,2025-02-04,5,0,85.16,9
+P0151,Food,Supplier A,Chicago,2025-03-15,2025-04-07,336,0,195.8,18
+P0152,Toys,Supplier B,San Francisco,2025-03-16,2025-03-30,6,1,104.09,13
+P0153,Electronics,Supplier D,Chicago,2025-03-23,2025-03-30,373,1,466.55,7
+P0154,Food,Supplier D,Dallas,2025-03-07,2025-03-31,153,0,211.86,19
+P0155,Toys,Supplier C,San Francisco,2025-03-01,2025-03-16,222,1,219.39,15
+P0156,Furniture,Supplier C,Chicago,2025-03-20,2025-04-04,437,0,374.1,13
+P0157,Food,Supplier A,Dallas,2025-03-27,2025-04-05,374,1,339.35,9
+P0158,Furniture,Supplier D,Chicago,2025-02-04,2025-02-15,79,0,459.64,11
+P0159,Electronics,Supplier A,Chicago,2025-03-15,2025-03-29,314,0,491.08,11
+P0160,Furniture,Supplier C,New York,2025-02-17,2025-02-23,470,0,259.08,6
+P0161,Furniture,Supplier C,Chicago,2025-02-07,2025-02-20,201,0,57.56,13
+P0162,Clothing,Supplier D,San Francisco,2025-02-18,2025-03-02,325,0,255.26,10
+P0163,Electronics,Supplier D,Chicago,2025-03-01,2025-03-15,260,0,284.38,9
+P0164,Furniture,Supplier C,San Francisco,2025-04-08,2025-04-17,424,0,408.12,9
+P0165,Clothing,Supplier C,Chicago,2025-02-15,2025-02-25,430,0,111.62,10
+P0166,Electronics,Supplier D,Chicago,2025-03-21,2025-03-23,168,0,111.54,2
+P0167,Furniture,Supplier A,San Francisco,2025-02-16,2025-03-07,437,0,393.02,19
+P0168,Electronics,Supplier B,Dallas,2025-03-04,2025-03-14,497,0,145.66,10
+P0169,Clothing,Supplier D,New York,2025-02-27,2025-03-15,21,0,339.48,16
+P0170,Food,Supplier D,Chicago,2025-03-14,2025-03-16,179,0,79.04,2
+P0171,Clothing,Supplier B,New York,2025-03-26,2025-04-01,167,0,435.08,6
+P0172,Furniture,Supplier A,New York,2025-03-25,2025-03-31,360,0,275.2,3
+P0173,Clothing,Supplier C,San Francisco,2025-03-07,2025-03-15,38,0,359.91,8
+P0174,Clothing,Supplier D,Chicago,2025-02-11,2025-02-21,419,0,404.24,10
+P0175,Toys,Supplier A,New York,2025-03-12,2025-03-14,157,0,56.69,2
+P0176,Toys,Supplier A,New York,2025-03-30,2025-04-03,309,0,137.81,4
+P0177,Clothing,Supplier B,San Francisco,2025-02-14,2025-02-16,311,0,66.78,2
+P0178,Clothing,Supplier B,Chicago,2025-02-06,2025-02-19,443,0,208.69,13
+P0179,Clothing,Supplier A,San Francisco,2025-04-09,2025-04-22,488,0,235.03,13
+P0180,Furniture,Supplier C,Dallas,2025-04-03,2025-04-09,296,0,47.58,6
+P0181,Clothing,Supplier A,New York,2025-02-20,2025-03-07,274,0,126.98,15
+P0182,Furniture,Supplier B,New York,2025-02-24,2025-03-07,328,0,484.08,10
+P0183,Clothing,Supplier C,Dallas,2025-02-03,2025-02-13,420,0,235.63,10
+P0184,Food,Supplier D,San Francisco,2025-02-23,2025-03-15,140,0,216.97,19
+P0185,Furniture,Supplier B,Dallas,2025-01-29,2025-02-05,164,0,374.35,5
+P0186,Electronics,Supplier B,Chicago,2025-04-08,2025-04-24,407,0,487.23,16
+P0187,Food,Supplier C,Dallas,2025-02-12,2025-02-16,492,0,190.53,4
+P0188,Furniture,Supplier D,Dallas,2025-03-22,2025-04-05,452,0,251.58,10
+P0189,Food,Supplier D,Dallas,2025-01-31,2025-02-17,84,0,15.29,13
+P0190,Toys,Supplier C,New York,2025-02-20,2025-03-08,420,0,249.92,16
+P0191,Toys,Supplier B,Chicago,2025-02-16,2025-02-20,10,0,285.17,4
+P0192,Clothing,Supplier A,Dallas,2025-02-11,2025-02-25,380,0,245.53,13
+P0193,Electronics,Supplier D,Dallas,2025-03-11,2025-03-29,219,1,33.4,18
+P0194,Toys,Supplier C,San Francisco,2025-04-10,2025-04-19,224,0,126.15,9
+P0195,Clothing,Supplier D,New York,2025-03-30,2025-04-14,78,0,206.24,15
+P0196,Clothing,Supplier D,Dallas,2025-01-26,2025-02-06,197,0,492.86,11
+P0197,Electronics,Supplier B,New York,2025-04-05,2025-04-21,460,1,362.09,13
+P0198,Clothing,Supplier B,New York,2025-03-05,2025-03-16,75,1,208.04,11
+P0199,Food,Supplier C,San Francisco,2025-01-21,2025-02-02,333,0,254.58,12
+P0200,Furniture,Supplier A,New York,2025-02-12,2025-02-24,225,0,170.76,12
+P0201,Electronics,Supplier D,San Francisco,2025-02-10,2025-02-22,81,1,360.96,11
+P0202,Electronics,Supplier D,San Francisco,2025-04-04,2025-04-06,352,1,490.19,2
+P0203,Food,Supplier C,New York,2025-03-14,2025-03-18,86,0,296.25,4
+P0204,Food,Supplier B,Chicago,2025-03-23,2025-04-07,338,0,218.42,11
+P0205,Electronics,Supplier D,Chicago,2025-02-25,2025-03-13,399,0,298.67,11
+P0206,Electronics,Supplier B,New York,2025-03-06,2025-03-22,297,1,429.37,16
+P0207,Clothing,Supplier A,New York,2025-03-05,2025-03-21,379,1,274.48,16
+P0208,Electronics,Supplier D,San Francisco,2025-03-16,2025-03-17,300,0,107.07,1
+P0209,Food,Supplier B,San Francisco,2025-03-06,2025-03-17,321,0,57.98,11
+P0210,Clothing,Supplier B,San Francisco,2025-03-10,2025-03-26,33,0,30.93,13
+P0211,Food,Supplier C,San Francisco,2025-02-07,2025-02-09,218,0,424.21,2
+P0212,Electronics,Supplier B,San Francisco,2025-01-26,2025-02-02,329,1,36.8,7
+P0213,Food,Supplier B,Dallas,2025-02-27,2025-03-06,76,1,110.95,6
+P0214,Clothing,Supplier C,San Francisco,2025-02-12,2025-02-21,421,0,486.54,9
+P0215,Furniture,Supplier D,Chicago,2025-02-03,2025-02-18,1,0,39.14,15
+P0216,Electronics,Supplier D,New York,2025-04-04,2025-04-10,150,0,274.01,6
+P0217,Furniture,Supplier C,New York,2025-01-31,2025-02-11,318,0,51.19,11
+P0218,Clothing,Supplier C,Dallas,2025-02-12,2025-02-23,165,1,227.84,11
+P0219,Electronics,Supplier B,San Francisco,2025-03-26,2025-03-27,469,0,383.4,1
+P0220,Electronics,Supplier B,Dallas,2025-03-04,2025-03-07,95,0,250.95,3
+P0221,Food,Supplier B,San Francisco,2025-02-07,2025-02-13,338,1,379.42,6
+P0222,Toys,Supplier B,Dallas,2025-04-09,2025-04-20,390,0,305.04,6
+P0223,Furniture,Supplier C,New York,2025-04-10,2025-04-20,274,0,287.94,10
+P0224,Clothing,Supplier B,New York,2025-03-04,2025-03-07,350,0,13.78,3
+P0225,Clothing,Supplier D,San Francisco,2025-03-21,2025-04-06,306,0,266.58,16
+P0226,Furniture,Supplier D,Chicago,2025-03-05,2025-03-18,154,0,136.44,11
+P0227,Clothing,Supplier A,San Francisco,2025-03-20,2025-03-22,95,0,329.56,2
+P0228,Toys,Supplier B,Dallas,2025-03-22,2025-04-06,140,0,251.62,15
+P0229,Electronics,Supplier D,New York,2025-02-11,2025-02-22,79,0,205.54,11
+P0230,Food,Supplier C,New York,2025-02-01,2025-02-04,250,0,401.13,3
+P0231,Furniture,Supplier A,Chicago,2025-03-30,2025-04-01,286,1,477.96,2
+P0232,Toys,Supplier C,San Francisco,2025-04-06,2025-04-16,52,0,277.27,10
+P0233,Clothing,Supplier A,New York,2025-03-27,2025-04-08,349,0,55.11,12
+P0234,Clothing,Supplier D,New York,2025-02-27,2025-03-10,284,0,253.57,11
+P0235,Electronics,Supplier A,Chicago,2025-03-28,2025-04-05,465,0,419.04,8
+P0236,Clothing,Supplier C,New York,2025-02-02,2025-02-12,107,0,103.24,5
+P0237,Clothing,Supplier B,San Francisco,2025-02-27,2025-03-17,173,0,265.93,18
+P0238,Toys,Supplier C,New York,2025-03-24,2025-03-28,489,0,13.47,4
+P0239,Furniture,Supplier C,New York,2025-03-08,2025-03-11,147,0,381.46,3
+P0240,Electronics,Supplier B,San Francisco,2025-02-07,2025-02-09,273,0,309.3,2
+P0241,Toys,Supplier A,San Francisco,2025-01-29,2025-02-12,474,0,397.32,14
+P0242,Furniture,Supplier D,New York,2025-03-20,2025-04-06,157,0,212.15,17
+P0243,Food,Supplier A,San Francisco,2025-04-06,2025-04-18,343,0,165.84,11
+P0244,Electronics,Supplier D,Chicago,2025-04-08,2025-04-25,247,0,318.67,17
+P0245,Clothing,Supplier A,Chicago,2025-02-18,2025-03-05,113,0,315.73,15
+P0246,Toys,Supplier C,Chicago,2025-02-03,2025-02-18,499,0,15.93,15
+P0247,Clothing,Supplier C,Chicago,2025-04-09,2025-04-18,42,0,253.83,8
+P0248,Electronics,Supplier C,Dallas,2025-02-25,2025-03-06,323,0,389.24,9
+P0249,Furniture,Supplier B,New York,2025-02-09,2025-02-20,188,1,493.75,11
+P0250,Electronics,Supplier B,Dallas,2025-03-15,2025-03-21,174,0,38.79,6
